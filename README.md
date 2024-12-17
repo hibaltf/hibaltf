@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hiba LETAIEF   
 
-<!--
-**hibaltf/hibaltf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about web development and DevOps technologies, constantly seeking opportunities to enhance my skills and contribute to innovative projects. Also, I am deeply interested in the field of Internet of Things (IoT), where I can leverage my knowledge to develop connected solutions that bridge software and hardware to improve practical applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Skills  
+- **Frontend**: HTML, CSS, JavaScript, React, Angular  
+- **Backend**: Node.js, PHP (Laravel), Java (Spring Boot), Python  
+- **Databases**: MySQL, MongoDB  
+- **DevOps & Version Control**: Docker, CI/CD, Kubernetes, Jenkins, GitHub Actions, SonarQube, Grafana, Postman   
+- **Cloud et Virtualisation**: Microsoft Azure, AWS, VMware, VirtualBox
+
+---
+
+## 📫 Get in Touch  
+- **LinkedIn**: www.linkedin.com/in/hibaletaief  
+- **Email**: letaiefhiba2000@gmail.com 
+
+
+---
+
+Thank you for visiting my profile! Feel free to explore my projects. 🚀  
